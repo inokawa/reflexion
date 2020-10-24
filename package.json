@@ -17,7 +17,9 @@
     "build-storybook": "build-storybook",
     "prepublishOnly": "rimraf lib && npm run build && npm run tsc:d"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.14.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@rollup/plugin-typescript": "^6.0.0",
@@ -25,6 +27,7 @@
     "@storybook/addon-essentials": "^6.0.27",
     "@storybook/addon-links": "^6.0.27",
     "@storybook/react": "^6.0.27",
+    "@types/react": "^16.9.53",
     "babel-loader": "^8.1.0",
     "react-is": "^17.0.1",
     "rimraf": "^3.0.2",
