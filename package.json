@@ -1,5 +1,5 @@
 {
-  "name": "reflexion",
+  "name": "reflexible",
   "version": "0.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -36,12 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inokawa/reflexion.git"
+    "url": "git+https://github.com/inokawa/reflexible.git"
   },
   "author": "inokawa <stratoooo-taster@yahoo.co.jp> (https://github.com/inokawa/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/inokawa/reflexion/issues"
+    "url": "https://github.com/inokawa/reflexible/issues"
   },
-  "homepage": "https://github.com/inokawa/reflexion#readme"
+  "homepage": "https://github.com/inokawa/reflexible#readme"
 }
